@@ -21,4 +21,4 @@
 [anomaly_detection_w_gan.ipynb](./anomaly_detection_w_gan.ipynb) 
 
 
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A499d123b1d86d11c95ac0e650e0681b960706e26729d8cca435bfbcaabf81bd5&amp;width=685&amp;height=525&amp;lang=ru_RU&amp;scroll=true"></script>
+<a href="https://yandex.ru/maps/?um=constructor%3A499d123b1d86d11c95ac0e650e0681b960706e26729d8cca435bfbcaabf81bd5&amp;source=constructorStatic" target="_blank"><img src="https://api-maps.yandex.ru/services/constructor/1.0/static/?um=constructor%3A499d123b1d86d11c95ac0e650e0681b960706e26729d8cca435bfbcaabf81bd5&amp;width=600&amp;height=450&amp;lang=ru_RU" alt="" style="border: 0;" /></a>
