@@ -18,4 +18,7 @@
 взял ноутбук Петра, немного отрефакторил + изменил зарезал архитектуру   
 было: test data estimated threshold: 0.010101 with TPR=0.233 TNR=0.327  
 стало: test data estimated threshold: 0.171717 with TPR=0.426 TNR=0.531  
-[anomaly_detection_w_gan.ipynb](./anomaly_detection_w_gan.ipynb)  
+[anomaly_detection_w_gan.ipynb](./anomaly_detection_w_gan.ipynb) 
+
+
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A499d123b1d86d11c95ac0e650e0681b960706e26729d8cca435bfbcaabf81bd5&amp;source=constructor" width="685" height="525" frameborder="0"></iframe>
